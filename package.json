@@ -8,8 +8,23 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
     "next": "9.2.2",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-audio-player": "^0.11.1",
+    "react-dom": "16.13.0",
+    "react-h5-audio-player": "^2.4.2",
+    "react-hot-loader": "^4.12.19",
+    "react-loading-skeleton": "^2.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "swr": "^0.1.18"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0"
   }
 }
